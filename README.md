@@ -146,4 +146,4 @@ Pengujian otomatis (`flutter test`) mencakup:
 | *Cuaca terkini, metrik detail, & tombol tema/favorit* | *Pencarian kota via Open-Meteo Geocoding API* | *Daftar lokasi favorit tersimpan di Hive* |
 
 ## Video Penjelasan Kode
-- Tautan Video: *(Tambahkan tautan video penjelasan kode)*
+- Tautan Video: [Tonton Video Penjelasan Kode (YouTube)](https://youtu.be/wuCzGiVnE4A) — `https://youtu.be/wuCzGiVnE4A`
