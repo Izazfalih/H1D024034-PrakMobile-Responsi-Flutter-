@@ -140,11 +140,10 @@ Pengujian otomatis (`flutter test`) mencakup:
 
 ## Screenshot Aplikasi
 
-> *Tambahkan screenshot aplikasi pada tabel di bawah ini sebelum pengumpulan final:*
-
 | Home / Weather Screen | Search / Location Screen | Favorites Screen |
 | :---: | :---: | :---: |
-| *(Screenshot Home Screen)* | *(Screenshot Search Screen)* | *(Screenshot Favorites Screen)* |
+| <img src="screenshots/home_screen.jpg" width="250" alt="Home / Weather Screen SkyCast"/> | <img src="screenshots/search_screen.jpg" width="250" alt="Search / Location Screen SkyCast"/> | <img src="screenshots/favorites_screen.jpg" width="250" alt="Favorites Screen SkyCast"/> |
+| *Cuaca terkini, metrik detail, & tombol tema/favorit* | *Pencarian kota via Open-Meteo Geocoding API* | *Daftar lokasi favorit tersimpan di Hive* |
 
 ## Video Penjelasan Kode
 - Tautan Video: *(Tambahkan tautan video penjelasan kode)*
